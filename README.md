@@ -1,2 +1,2 @@
 # elenaditiateva.github.io
-Мой первый хостинг
+Зачетный макет по курсу HTML5/CSS3
